@@ -1,7 +1,9 @@
 import yaml
 from torchvision import transforms
-from src import data
-from src import conv_onet
+import data
+# from src import data
+import conv_onet
+# from src import conv_onet
 
 
 method_dict = {
